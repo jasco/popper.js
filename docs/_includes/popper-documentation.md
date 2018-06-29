@@ -962,7 +962,7 @@ to change in future major versions of the library.
 
 | Name | Type | Default | Description |
 | --- | --- | --- | --- |
-| x | <code>string</code> | <code>&quot;&#x27;left&#x27;&quot;</code> | Where to anchor the Y axis (`left` or `right`). AKA Y offset origin. Change this if your popper should grow in a direction different from `right` |
+| y | <code>string</code> | <code>&quot;&#x27;left&#x27;&quot;</code> | Where to anchor the Y axis (`left` or `right`). AKA Y offset origin. Change this if your popper should grow in a direction different from `right` |
 
 <a name="modifiers..applyStyle"></a>
 
